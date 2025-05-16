@@ -18,6 +18,7 @@ function IncrementCounter(){
     counter++;
     UpdateCounter();
 }
+
 function DecrementCounter(){
     counter--;
     UpdateCounter();
